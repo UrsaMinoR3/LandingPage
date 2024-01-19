@@ -14,3 +14,7 @@ Hope you can inspect the code in google or any browser your seen it and you can 
 <h1>IMPORTANT</h1>
 
 Some features of this project , like responsiveness or flowing are not going to work as expected due that the main goal of the project was to take a given layout and try to replicate it.
+
+<h1>LINK FOR THE PROJECT</h1>
+
+https://ursaminor3.github.io/LandingPage/
