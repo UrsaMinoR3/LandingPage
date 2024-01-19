@@ -8,7 +8,7 @@
 /* Page ALignment */
 
 .alignmentGeneral{
-    padding: 0% 10% 0% 10%;
+    padding: 0vh 17vw 0vh 17vw;
 }
 /* end */
 
@@ -18,6 +18,10 @@
     background-color: #1F2937;
 }
 /* end */
+
+#header_Title{
+    font-size: 24px;
+}
 
 #header_Main{
     display: flex;
@@ -32,6 +36,10 @@
     list-style: none;
     width: 445px;
     justify-content: space-between;
+}
+
+#header_Menu li {
+    font-size: 18px;
 }
 
 .informativeAds{
@@ -62,19 +70,40 @@
     align-items: center;
     justify-content: center;
     color: white;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .titleInformative{
     color: white;
-    font-size: 42px;
-    font-weight: bold;
+    font-size: 48px;
+    font-weight: bolder;
 }
 
 .textInformative{
     color: #afa9a9;
-    font-size: 13px;
-    padding-right: 101px;
+    font-size: 18px;
+}
+
+
+.containerQuotes{
+    background-color: #E5E7EB;
+    padding: 5vh 20vw 5vh 20vw;
+}
+
+.containerQuotes .quote{
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.containerQuotes .author{
+    display: flex;
+    padding-top: 20px;
+    justify-content: flex-end;
+    color: #1F2937;
+    font-weight: bolder;
+    font-size: 18px;
 }
 
 #footer{
